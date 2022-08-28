@@ -1,4 +1,4 @@
-## Hello there 👋 My name is Alexis
+# Hello there 👋 My name is Alexis
 
 <!--
 **Alex420000/Alex420000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
