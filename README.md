@@ -1,8 +1,8 @@
-# Hello there 👋 My name is Alexis
+# Hello there 👋 My name is Alexis Barthelemy
 
-- 🔭 I’m currently working on @Epitech
-- 🌱 I’m currently learning Python and Javascript and HTML5/CSS3
-- 👯 I’m looking to collaborate on AI Project and Software Project
+- 🔭 I’m currently student at @epitech.
+- 🌱 I’m currently learning Python and Javascript and C++.
+- 👯 I’m looking to collaborate on AI project and i love it.
 - 📫 How to reach me: alexis.barthelemy@epitech.eu
 
 <!--
